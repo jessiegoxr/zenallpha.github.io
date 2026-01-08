@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Your Brand Name</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Your Brand Name</h1>
+    <p>Minimal • Modern • Everyday Wear</p>
+  </section>
+
+  <!-- About Section -->
+  <section class="section">
+    <h2>About the Brand</h2>
+    <p>
+      Your Brand Name is a clothing brand focused on modern silhouettes,
+      soft colors, and everyday comfort. Inspired by simplicity and lifestyle.
+    </p>
+  </section>
+
+  <!-- Collection Section -->
+  <section class="section">
+    <h2>Collections</h2>
+    <div class="grid">
+      <div class="card">Collection 01</div>
+      <div class="card">Collection 02</div>
+      <div class="card">Collection 03</div>
+    </div>
+  </section>
+
+  <!-- Brand Concept -->
+  <section class="section">
+    <h2>Brand Concept</h2>
+    <p>
+      We believe clothing should be effortless, timeless,
+      and suitable for daily life.
+    </p>
+  </section>
+
+  <!-- Contact -->
+  <section class="section contact">
+    <h2>Contact</h2>
+    <p>Email: yourbrand@email.com</p>
+    <p>Instagram: @yourbrand</p>
+  </section>
+
+  <footer>
+    <p>© 2026 Your Brand Name</p>
+  </footer>
+
+</body>
+</html>
